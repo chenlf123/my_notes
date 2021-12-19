@@ -1,4 +1,15 @@
 sudo apt install vim \
                  git \
                  tig \
-                 gitk
+                 gitk \
+                 gedit \
+                 make \
+                 gcc \
+                 g++ \
+                 pip \
+                 cmake \
+                 gperf \
+                 bison \
+                 language-pack-zh-hant \
+                 language-pack-zh-hans \
+                 
