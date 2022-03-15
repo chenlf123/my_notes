@@ -17,4 +17,6 @@ sudo apt install vim \
                  libsdl1.2-dev \
                  autoconf \
                  ninja-build \
-                 libpixman-1-dev
+                 libpixman-1-dev \
+                 tree \
+
