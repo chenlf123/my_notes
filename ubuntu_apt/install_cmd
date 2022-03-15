@@ -12,4 +12,7 @@ sudo apt install vim \
                  bison \
                  language-pack-zh-hant \
                  language-pack-zh-hans \
-                 
+                 libglib2.0-dev \
+                 libtool \
+                 libsdl1.2-dev \
+                 autoconf
