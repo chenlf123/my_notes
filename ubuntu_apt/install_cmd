@@ -15,4 +15,5 @@ sudo apt install vim \
                  libglib2.0-dev \
                  libtool \
                  libsdl1.2-dev \
-                 autoconf
+                 autoconf \
+                 ninja-build
