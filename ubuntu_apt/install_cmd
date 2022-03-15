@@ -16,4 +16,5 @@ sudo apt install vim \
                  libtool \
                  libsdl1.2-dev \
                  autoconf \
-                 ninja-build
+                 ninja-build \
+                 libpixman-1-dev
