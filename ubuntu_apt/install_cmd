@@ -19,4 +19,5 @@ sudo apt install vim \
                  ninja-build \
                  libpixman-1-dev \
                  tree \
+                 curl \
 
