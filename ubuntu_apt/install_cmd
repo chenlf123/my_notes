@@ -20,4 +20,7 @@ sudo apt install vim \
                  libpixman-1-dev \
                  tree \
                  curl \
-
+                 qemu-kvm \
+                 libvirt-bin \
+                 ubuntu-vm-builder \
+                 bridge-utils \
