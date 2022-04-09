@@ -6,7 +6,7 @@ sudo apt install vim \
                  make \
                  gcc \
                  g++ \
-                 pip \
+                 python-pip \
                  cmake \
                  gperf \
                  bison \
