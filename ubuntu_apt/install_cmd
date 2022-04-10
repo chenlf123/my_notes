@@ -24,3 +24,5 @@ sudo apt install vim \
                  libvirt-bin \
                  ubuntu-vm-builder \
                  bridge-utils \
+                 lib32z1 \
+                 lib32ncurses5 \
