@@ -26,3 +26,4 @@ sudo apt install vim \
                  bridge-utils \
                  lib32z1 \
                  lib32ncurses5 \
+                 libcanberra-gtk-module libgconf-2-4 libcanberra-gtk0 gconf2-common \
