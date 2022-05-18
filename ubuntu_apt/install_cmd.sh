@@ -1,11 +1,11 @@
 sudo apt install vim \
                  git \
+                 gcc \
+                 make \
+                 g++ \
                  tig \
                  gitk \
                  gedit \
-                 make \
-                 gcc \
-                 g++ \
                  python-pip \
                  cmake \
                  gperf \
@@ -21,9 +21,16 @@ sudo apt install vim \
                  tree \
                  curl \
                  qemu-kvm \
-                 libvirt-bin \
-                 ubuntu-vm-builder \
                  bridge-utils \
                  lib32z1 \
-                 lib32ncurses5 \
                  libcanberra-gtk-module libgconf-2-4 libcanberra-gtk0 gconf2-common \
+
+### ubuntu22 fail
+sudo apt install libvirt-bin \
+                 ubuntu-vm-builder \
+                 lib32ncurses5 \
+
+
+### ros
+sudo apt install ros-melodic-desktop-full
+
