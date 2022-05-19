@@ -8,6 +8,8 @@ sudo apt install vim \
                  gedit \
                  python-pip \
                  cmake \
+		 putty \
+		 minicom \
                  gperf \
                  bison \
                  language-pack-zh-hant \
