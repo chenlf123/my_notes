@@ -12,6 +12,7 @@ sudo apt install vim \
                  minicom \
                  gperf \
                  bison \
+                 cpufrequtils \
                  libncurses-dev \
                  language-pack-zh-hant \
                  language-pack-zh-hans \
