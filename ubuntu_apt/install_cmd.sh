@@ -8,10 +8,11 @@ sudo apt install vim \
                  gedit \
                  python-pip \
                  cmake \
-		 putty \
-		 minicom \
+                 putty \
+                 minicom \
                  gperf \
                  bison \
+                 libncurses-dev \
                  language-pack-zh-hant \
                  language-pack-zh-hans \
                  libglib2.0-dev \
