@@ -12,7 +12,9 @@ sudo apt install vim \
                  minicom \
                  gperf \
                  bison \
+                 flex \
                  cpufrequtils \
+                 linux-tools-common \
                  libncurses-dev \
                  language-pack-zh-hant \
                  language-pack-zh-hans \
