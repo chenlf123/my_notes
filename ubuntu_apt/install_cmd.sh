@@ -6,6 +6,7 @@ sudo apt install vim \
                  tig \
                  gitk \
                  gedit \
+                 elfutils \
                  python-pip \
                  cmake \
                  putty \
